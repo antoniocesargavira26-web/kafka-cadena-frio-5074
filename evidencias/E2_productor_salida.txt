@@ -1,0 +1,65 @@
+Iniciando simulación de telemetría hacia el topic 'telemetria-frio'...
+---------------------------------------------------------------------------
+[01/60] Vehículo: CAM-01 | Temp: -19.4 °C | Partición: 2 | Offset: 0
+[02/60] Vehículo: CAM-02 | Temp: -19.9 °C | Partición: 1 | Offset: 0
+[03/60] Vehículo: CAM-03 | Temp: -21.0 °C | Partición: 0 | Offset: 0
+[04/60] Vehículo: CAM-04 | Temp: -20.1 °C | Partición: 1 | Offset: 1
+[05/60] Vehículo: CAM-01 | Temp: -18.8 °C | Partición: 2 | Offset: 1
+[06/60] Vehículo: CAM-02 | Temp: -21.0 °C | Partición: 1 | Offset: 2
+[07/60] Vehículo: CAM-03 | Temp: -21.2 °C | Partición: 0 | Offset: 1
+[08/60] Vehículo: CAM-04 | Temp: -15.2 °C | Partición: 1 | Offset: 3 [ALERTA > -18.0°C]
+[09/60] Vehículo: CAM-01 | Temp: -15.7 °C | Partición: 2 | Offset: 2 [ALERTA > -18.0°C]
+[10/60] Vehículo: CAM-02 | Temp: -19.0 °C | Partición: 1 | Offset: 4
+[11/60] Vehículo: CAM-03 | Temp: -20.8 °C | Partición: 0 | Offset: 2
+[12/60] Vehículo: CAM-04 | Temp: -19.2 °C | Partición: 1 | Offset: 5
+[13/60] Vehículo: CAM-01 | Temp: -19.7 °C | Partición: 2 | Offset: 3
+[14/60] Vehículo: CAM-02 | Temp: -20.9 °C | Partición: 1 | Offset: 6
+[15/60] Vehículo: CAM-03 | Temp: -20.5 °C | Partición: 0 | Offset: 3
+[16/60] Vehículo: CAM-04 | Temp: -18.7 °C | Partición: 1 | Offset: 7
+[17/60] Vehículo: CAM-01 | Temp: -20.5 °C | Partición: 2 | Offset: 4
+[18/60] Vehículo: CAM-02 | Temp: -21.9 °C | Partición: 1 | Offset: 8
+[19/60] Vehículo: CAM-03 | Temp: -21.2 °C | Partición: 0 | Offset: 4
+[20/60] Vehículo: CAM-04 | Temp: -18.9 °C | Partición: 1 | Offset: 9
+[21/60] Vehículo: CAM-01 | Temp: -19.8 °C | Partición: 2 | Offset: 5
+[22/60] Vehículo: CAM-02 | Temp: -21.0 °C | Partición: 1 | Offset: 10
+[23/60] Vehículo: CAM-03 | Temp: -18.6 °C | Partición: 0 | Offset: 5
+[24/60] Vehículo: CAM-04 | Temp: -21.2 °C | Partición: 1 | Offset: 11
+[25/60] Vehículo: CAM-01 | Temp: -21.3 °C | Partición: 2 | Offset: 6
+[26/60] Vehículo: CAM-02 | Temp: -20.8 °C | Partición: 1 | Offset: 12
+[27/60] Vehículo: CAM-03 | Temp: -16.5 °C | Partición: 0 | Offset: 6 [ALERTA > -18.0°C]
+[28/60] Vehículo: CAM-04 | Temp: -16.8 °C | Partición: 1 | Offset: 13 [ALERTA > -18.0°C]
+[29/60] Vehículo: CAM-01 | Temp: -21.2 °C | Partición: 2 | Offset: 7
+[30/60] Vehículo: CAM-02 | Temp: -20.8 °C | Partición: 1 | Offset: 14
+[31/60] Vehículo: CAM-03 | Temp: -15.1 °C | Partición: 0 | Offset: 7 [ALERTA > -18.0°C]
+[32/60] Vehículo: CAM-04 | Temp: -19.3 °C | Partición: 1 | Offset: 15
+[33/60] Vehículo: CAM-01 | Temp: -20.6 °C | Partición: 2 | Offset: 8
+[34/60] Vehículo: CAM-02 | Temp: -21.5 °C | Partición: 1 | Offset: 16
+[35/60] Vehículo: CAM-03 | Temp: -21.1 °C | Partición: 0 | Offset: 8
+[36/60] Vehículo: CAM-04 | Temp: -20.6 °C | Partición: 1 | Offset: 17
+[37/60] Vehículo: CAM-01 | Temp: -19.3 °C | Partición: 2 | Offset: 9
+[38/60] Vehículo: CAM-02 | Temp: -19.7 °C | Partición: 1 | Offset: 18
+[39/60] Vehículo: CAM-03 | Temp: -19.2 °C | Partición: 0 | Offset: 9
+[40/60] Vehículo: CAM-04 | Temp: -21.9 °C | Partición: 1 | Offset: 19
+[41/60] Vehículo: CAM-01 | Temp: -21.3 °C | Partición: 2 | Offset: 10
+[42/60] Vehículo: CAM-02 | Temp: -20.3 °C | Partición: 1 | Offset: 20
+[43/60] Vehículo: CAM-03 | Temp: -20.2 °C | Partición: 0 | Offset: 10
+[44/60] Vehículo: CAM-04 | Temp: -21.6 °C | Partición: 1 | Offset: 21
+[45/60] Vehículo: CAM-01 | Temp: -20.0 °C | Partición: 2 | Offset: 11
+[46/60] Vehículo: CAM-02 | Temp: -21.5 °C | Partición: 1 | Offset: 22
+[47/60] Vehículo: CAM-03 | Temp: -19.1 °C | Partición: 0 | Offset: 11
+[48/60] Vehículo: CAM-04 | Temp: -18.7 °C | Partición: 1 | Offset: 23
+[49/60] Vehículo: CAM-01 | Temp: -20.1 °C | Partición: 2 | Offset: 12
+[50/60] Vehículo: CAM-02 | Temp: -20.3 °C | Partición: 1 | Offset: 24
+[51/60] Vehículo: CAM-03 | Temp: -20.3 °C | Partición: 0 | Offset: 12
+[52/60] Vehículo: CAM-04 | Temp: -16.2 °C | Partición: 1 | Offset: 25 [ALERTA > -18.0°C]
+[53/60] Vehículo: CAM-01 | Temp: -14.5 °C | Partición: 2 | Offset: 13 [ALERTA > -18.0°C]
+[54/60] Vehículo: CAM-02 | Temp: -20.2 °C | Partición: 1 | Offset: 26
+[55/60] Vehículo: CAM-03 | Temp: -20.0 °C | Partición: 0 | Offset: 13
+[56/60] Vehículo: CAM-04 | Temp: -14.9 °C | Partición: 1 | Offset: 27 [ALERTA > -18.0°C]
+[57/60] Vehículo: CAM-01 | Temp: -19.9 °C | Partición: 2 | Offset: 14
+[58/60] Vehículo: CAM-02 | Temp: -21.0 °C | Partición: 1 | Offset: 28
+[59/60] Vehículo: CAM-03 | Temp: -20.3 °C | Partición: 0 | Offset: 14
+[60/60] Vehículo: CAM-04 | Temp: -19.9 °C | Partición: 1 | Offset: 29
+---------------------------------------------------------------------------
+Resumen final: 60 eventos enviados.
+Total de anomalías emitidas (temp_c > -18.0 °C): 8
