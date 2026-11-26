@@ -1,0 +1,8 @@
+ALERTA | Partición: 0 | Offset: 6 | Vehículo: CAM-03 | Temp: -16.5 °C | Lat: 37.3735 | Lon: -5.9668 | Timestamp: 2026-11-26T18:35:02Z
+ALERTA | Partición: 0 | Offset: 7 | Vehículo: CAM-03 | Temp: -15.1 °C | Lat: 37.3788 | Lon: -5.9699 | Timestamp: 2026-11-26T18:35:04Z
+ALERTA | Partición: 2 | Offset: 2 | Vehículo: CAM-01 | Temp: -15.7 °C | Lat: 37.3843 | Lon: -5.9886 | Timestamp: 2026-11-26T18:34:53Z
+ALERTA | Partición: 2 | Offset: 13 | Vehículo: CAM-01 | Temp: -14.5 °C | Lat: 37.3863 | Lon: -5.9892 | Timestamp: 2026-11-26T18:35:15Z
+ALERTA | Partición: 1 | Offset: 3 | Vehículo: CAM-04 | Temp: -15.2 °C | Lat: 37.4059 | Lon: -5.9795 | Timestamp: 2026-11-26T18:34:52Z
+ALERTA | Partición: 1 | Offset: 13 | Vehículo: CAM-04 | Temp: -16.8 °C | Lat: 37.4057 | Lon: -5.975 | Timestamp: 2026-11-26T18:35:02Z
+ALERTA | Partición: 1 | Offset: 25 | Vehículo: CAM-04 | Temp: -16.2 °C | Lat: 37.3964 | Lon: -5.9718 | Timestamp: 2026-11-26T18:35:14Z
+ALERTA | Partición: 1 | Offset: 27 | Vehículo: CAM-04 | Temp: -14.9 °C | Lat: 37.4025 | Lon: -5.9751 | Timestamp: 2026-11-26T18:35:17Z
