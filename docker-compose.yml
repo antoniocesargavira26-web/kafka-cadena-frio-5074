@@ -27,5 +27,9 @@ services:
     networks:
       - bigdata-net
 
+networks:
+  bigdata-net:
+    driver: bridge
+
 volumes:
   kafka_data:
