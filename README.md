@@ -84,7 +84,7 @@ python src/productor_frio.py
 * Instrucciones de simulación de caída (`Ctrl + C` en uno de los consumidores a mitad de emisión) e inspección final del grupo (`LAG = 0` al usar otra vez el comando inicial de **Terminal 3**).
 
 ### 3.3. Advertencia
-Al ejecutar el comando de los códigos python es posible que surja un error. Dependiende de la instalación, alterne entre **py** y **python** (Ej: de `python src/productor_frio.py` a `py src/productor_frio.py` )
+Al ejecutar el comando de los códigos python es posible que surja un error. Dependiende de la instalación, alterne entre **pip** y **python** (Ej: de `python src/productor_frio.py` a `pip src/productor_frio.py` )
 
 ---
 
