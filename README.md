@@ -38,8 +38,12 @@ kafka-cadena-frio-5074/
     Dos o más ventanas de terminal para simular ejecuciones concurrentes.
 
 ### 2.2. Preparación del entorno Python
-* Comandos para crear y activar el entorno virtual (`venv`).
-* Comando para instalar dependencias desde `requirements.txt` (`pip install -r requirements.txt`).
+1. **Crear el entorno virtual ('venv')** en la raíz del proyecto:
+```bash
+python -m venv .venv
+```
+
+2. Comando para instalar dependencias desde `requirements.txt` (`pip install -r requirements.txt`).
 
 ---
 
